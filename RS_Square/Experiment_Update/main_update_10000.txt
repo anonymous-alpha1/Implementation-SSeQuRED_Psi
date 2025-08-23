@@ -1,0 +1,10 @@
+########### DSSE RS^2 Begins #####################
+============================= RS^2: Setup Begins =============================
+####################### RS^2: Setup Protocol Starts ################
+####################### RS^2: Setup Protocol Ends #######################
+============================= RS^2: Setup Ends =============================
+####################### RS^2: Update Protocol Begins #######################
+Avg time to update a keyword/identifier pair at Client side : 83373.8
+Avg time to update a keyword/identifier pair at Server side : 392.371
+####################### RS^2: Update Protocol Ends #######################
+########### DSSE RS^2 Ends #####################

@@ -1,0 +1,28 @@
+DSSE FAST: Begins 
+============================= PSI: Setup =============================
+ FAST: Setup Ends Here;
+0x5bc53bcaf100
+Lambda(FAST) Optimized: The EDB is : 
+0x5bc53bd2c7c0
+Lambda Optimized: Setup Protocol Ends Here.
+FAST: Enter Choice (Update/Search) : (1/2)
+============================= PSI: Update =============================
+Average client-side update time (μs): 0.1
+Average server-side update time (μs): 0
+Do you want to continue? (y/n): FAST: Enter Choice (Update/Search) : (1/2)
+Enter the range query of the form [int a, int b]: a  = 
+Enter the range query of the form [int a, int b]: b  = 
+============================= PSI: Search =============================
+Client: Search Time = 54 μs
+Server: Search Time = 54 μs
+ID0
+ID1
+ID2
+ID3
+ID4
+ID5
+ID6
+ID7
+ID8
+ID9
+Do you want to continue? (y/n): DSSE FAST: Ends 

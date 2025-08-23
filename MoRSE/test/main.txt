@@ -1,0 +1,27 @@
+DSSE FAST: Begins 
+============================= MoRSE: Setup Begins =============================
+ FAST: Setup Ends Here;
+============================= MoRSE: Setup Ends =============================
+MoRSE: Enter choice (Update/Search):(1/2)
+============================= MoRSE: Update Begins =============================
+Avg time to update a keyword/identifier pair at Client side : 787
+Avg time to update a keyword/identifier pair at Server side : 357
+============================= MoRSE: Update Ends =============================
+Do you want to continue? (y/n): MoRSE: Enter choice (Update/Search):(1/2)
+Enter the range query of the form [int a, int b]: a  = 
+Enter the range query of the form [int a, int b]: b  = 
+####################### MoRSE: Search Protocol Begins #######################
+ind = 9______________
+ind = 8______________
+ind = 7______________
+ind = 6______________
+ind = 5______________
+ind = 4______________
+ind = 3______________
+ind = 2______________
+ind = 1______________
+ind = 0______________
+avg time to search a query of length 100 at client side : 65
+avg time to search a query of length 100 at server side : 279
+####################### MoRSE: Search Protocol Ends #######################
+Do you want to continue? (y/n): DSSE FAST: Ends 

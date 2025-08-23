@@ -1,0 +1,11 @@
+DSSE FAST: Begins 
+============================= PSI: Setup =============================
+ FAST: Setup Ends Here;
+0x5995c8c63100
+Lambda(FAST) Optimized: The EDB is : 
+0x5995c8cd9f80
+Lambda Optimized: Setup Protocol Ends Here.
+============================= PSI: Update =============================
+Average client-side update time (μs): 327190
+Average server-side update time (μs): 160602
+DSSE FAST: Ends 
